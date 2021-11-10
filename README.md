@@ -42,7 +42,7 @@
 
 ## ```SETTING```
 
-- Owner number,Owner Name,Bot Name,And Change Apikey on [Here](https://github.com/ZansLord/HelTodBotV9/blob/main/setting.json)
+- Owner number,Owner Name,Bot Name,And Change Apikey on [Here](https://github.com/ZansLord/AbilBotzV17/blob/main/setting.json)
 
 
 ## ```DONASI```
